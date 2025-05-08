@@ -1,9 +1,9 @@
 # Software Engineer & Game Developer
 
 ## Education
-Bachelor of Computer Science specialising in Game Development, Multimedia University (Aug 2023 to present) CGPA 3.2
-Diploma in Computer Science, University Teknologi MARA (Aug 2020 to Mar 2023) CGPA 3.32
-Sijil Pelajaran Malaysia (2019) 6A 3B
+- Bachelor of Computer Science specialising in Game Development, Multimedia University (Aug 2023 to present) CGPA 3.2
+- Diploma in Computer Science, University Teknologi MARA (Aug 2020 to Mar 2023) CGPA 3.32
+- Sijil Pelajaran Malaysia (2019) 6A 3B
 
 ## Work Experience
 ### Intern @ DreamEDGE
