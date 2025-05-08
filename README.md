@@ -13,5 +13,5 @@ Intern @ DreamEDGE
 
 ### Projects
 
-## Personal website
+Personal website
 
