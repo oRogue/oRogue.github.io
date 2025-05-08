@@ -15,11 +15,13 @@ Sijil Pelajaran Malaysia (2019) 6A 3B
 ### Flappybird
 - Flappybird game made in Unity.
 - Practicing spawning, despawning and loops for game objects to simulate an infinite runner.
+
 ![image](https://github.com/user-attachments/assets/4a91cd20-ac83-428b-9b7d-32f147502fd8)
 
 ### Duckshooter
 - Duckshooter game made in GDevelop.
 - Practicing good management of Object-Oriented design using instances, Layering, Game Development Fundamental.
+
 ![image](https://github.com/user-attachments/assets/18f3787d-3f00-4973-92df-da28cb4272fe)
 
 ### Personal Website
@@ -31,7 +33,10 @@ Sijil Pelajaran Malaysia (2019) 6A 3B
 - Simple music bot build in Python using PyCord & Lavalink to play music online.
 - Custom commands to play music or to interact with the bot.
 
+![image](https://github.com/user-attachments/assets/9593c162-3b62-498f-907f-55a2e2527ace)
+
 ### Kwazam Chess 
 - A chess game game with custom pieces each with their own unique moveset.
 - Built using Java practicing good Object-Oriented Programming to efficiently to down on repetition work
 
+![image](https://github.com/user-attachments/assets/a1618f07-32ad-4a17-adff-7887f1543414)
