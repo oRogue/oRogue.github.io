@@ -1,4 +1,5 @@
 # Software Engineer & Game Developer
+**Technical Skills: Python, HTML, CSS, JavaScript, Java, C#, C++, SQL, Unity, GDevelop**
 
 ## Education
 - B.S., (Hons) Computer Science specialising Game Development | Multimedia University (_Aug 2023 to present_) CGPA 3.2
