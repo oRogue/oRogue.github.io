@@ -33,6 +33,7 @@
 ### Discord Bot (Venti)
 - Simple music bot build in Python using PyCord & Lavalink to play music online.
 - Custom commands to play music or to interact with the bot.
+- API intergration with Riot Games to display in-game status
 
 ![image](https://github.com/user-attachments/assets/9593c162-3b62-498f-907f-55a2e2527ace)
 
