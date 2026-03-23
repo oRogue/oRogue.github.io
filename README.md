@@ -36,7 +36,7 @@
 - API intergration with Riot Games to display in-game status.
 - Tested facial recognition with OpenCV.
 
-![image](https://github.com/user-attachments/assets/0754d554-d885-437b-b28d-a746e23e67a1)
+![image](https://github.com/user-attachments/assets/cf0e0011-8a16-4282-8d3e-3921acd85d21)
 ![image](https://github.com/user-attachments/assets/9593c162-3b62-498f-907f-55a2e2527ace)
 
 ### Kwazam Chess 
