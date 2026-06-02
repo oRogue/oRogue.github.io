@@ -1,10 +1,14 @@
 # Software Engineer & Game Developer
 **Technical Skills: Unity, C#, Python, TypeScript, Level Design, Encounter Design, QA Testing, Game Flow Design, UI/UX Design, Socket Programming, HTML, CSS, Java, GDevelop, Git, Visual Studio, Software Testing & Debugging.**
 
+---
+
 ## Education
 - B.S., (Hons) Computer Science specialising Game Development | Multimedia University (_Aug 2023 to present_) CGPA 3.35
 - Diploma in Computer Science | University Teknologi MARA (_Aug 2020 to Mar 2023_) CGPA 3.32
 - SPM | SMK Cyberjaya (_2019_) 6A 3B
+
+---
 
 ## Work Experience
 
@@ -53,20 +57,16 @@ Designed and developed a motor testing application from the ground up, including
 
 **Technologies:** TypeScript
 
-Maintained and enhanced an existing client application by implementing new features and functionality requested by stakeholders. Worked closely with the development team to ensure requirements were met while maintaining software stability and usability.
+Maintained and enhanced an existing client application by implementing new features and functionality requested by the customer. Worked closely with the development team to ensure requirements were met while maintaining software stability and usability.
+
+---
 
 ## Projects
 
-### Flappybird
-- Flappybird game made in Unity.
-- Practicing spawning, despawning and loops for game objects to simulate an infinite runner.
-
-![image](https://github.com/user-attachments/assets/4a91cd20-ac83-428b-9b7d-32f147502fd8)
-
 ### Duckshooter
-[Demo Here](https://oroguee.itch.io/duck-shooter)
 - Duckshooter game made in GDevelop.
 - Practicing good management of Object-Oriented design using instances, Layering, Game Development Fundamental.
+- [Demo Here](https://oroguee.itch.io/duck-shooter)
 
 ![image](https://github.com/user-attachments/assets/18f3787d-3f00-4973-92df-da28cb4272fe)
 
@@ -74,6 +74,16 @@ Maintained and enhanced an existing client application by implementing new featu
 - Personal website built in 2022 for an assignment during my Diploma. (Outdated)
 - Built using HTML, CSS, & Javascript 
 - https://diploma-website.pages.dev
+
+### Kwazam Chess 
+- A chess game game with custom pieces each with their own unique moveset.
+- Built using Java practicing good Object-Oriented Programming to efficiently to down on repetition work
+
+![image](https://github.com/user-attachments/assets/a1618f07-32ad-4a17-adff-7887f1543414)
+
+---
+
+## Personal Projects
 
 ### Discord Bot (Venti)
 - Simple music bot build in Python using PyCord & Lavalink to play music online.
@@ -83,8 +93,8 @@ Maintained and enhanced an existing client application by implementing new featu
 
 ![image](https://github.com/user-attachments/assets/9593c162-3b62-498f-907f-55a2e2527ace)
 
-### Kwazam Chess 
-- A chess game game with custom pieces each with their own unique moveset.
-- Built using Java practicing good Object-Oriented Programming to efficiently to down on repetition work
+### Flappybird
+- Flappybird game made in Unity.
+- Practicing spawning, despawning and loops for game objects to simulate an infinite runner.
 
-![image](https://github.com/user-attachments/assets/a1618f07-32ad-4a17-adff-7887f1543414)
+![image](https://github.com/user-attachments/assets/4a91cd20-ac83-428b-9b7d-32f147502fd8)
