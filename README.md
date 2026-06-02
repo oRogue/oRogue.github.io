@@ -9,7 +9,7 @@
 ## Work Experience
 
 ### Game Design Internship @  Nimbus Games
-**_July 2025 – October 2025_**
+_July 2025 – October 2025_
 
 During my internship at Nimbus Games, I contributed to the design, testing, and refinement of gameplay content for an upcoming title. My responsibilities focused on level design, encounter design, player guidance, and quality assurance for a different title.
 
@@ -25,7 +25,7 @@ During my internship at Nimbus Games, I contributed to the design, testing, and 
 Performed extensive QA testing on gameplay features and level content, identifying bugs, progression blockers, and usability issues. Produced detailed feedback reports and collaborated with team members to improve game quality, balance, and player experience.
 
 ### Software Engineering Internship @ DreamEDGE 
-**_September 2022 to February 2023_**
+_September 2022 to February 2023_
 
 During my six-month internship at DreamEDGE, I worked on multiple software development projects involving industrial automation, computer vision, testing systems, and client software solutions.
 
