@@ -63,12 +63,23 @@ Maintained and enhanced an existing client application by implementing new featu
 
 ## Projects
 
+### Last Mile Home
+- Story based top down shooter made in GDevelop.
+- Practicing level design, cutscene and story flow including NPC interations.
+- Experimented on states for cutscene, gameplay and ending.
+- [Demo Here](https://oroguee.itch.io/last-mile-home)
+
 ### Duckshooter
 - Duckshooter game made in GDevelop.
 - Practicing good management of Object-Oriented design using instances, Layering, Game Development Fundamental.
 - [Demo Here](https://oroguee.itch.io/duck-shooter)
 
 ![image](https://github.com/user-attachments/assets/18f3787d-3f00-4973-92df-da28cb4272fe)
+
+### SigilFall
+- Deck based card game made in GDevelop.
+- Practicing game design including card and deck mechanics.
+- [Demo Here](https://oroguee.itch.io/sigilfall)
 
 ### Personal Website
 - Personal website built in 2022 for an assignment during my Diploma. (Outdated)
