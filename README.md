@@ -64,14 +64,17 @@ During my six-month internship at DreamEDGE, I worked on multiple software devel
 ## Projects
 
 ### Elevator Plaza
-- Test
+- Management based strategy game made in Unity.
+- Practiced with Unity's approach to a manager singleton based design for the game.
+- Experimented with randomn spawning of prefab with a min and max threshold and weightage to avoid back-to-back spawning. 
 - [Demo Here](https://oroguee.itch.io/elevator-plaza)
 
 ![image](https://github.com/user-attachments/assets/621cfd7b-8c3c-4b4c-b243-a7c6ea9d3186)
 
 ### Grid Royale
 - Turn based combat game made in Unity.
-- Practicing enemy and combat design, co-routines for smoother turn based mechanics, and A* Pathfinding for enemy AI
+- Practiced and experimentied with enemy and combat design, co-routines for smoother turn based mechanics, and A* Pathfinding for enemy AI.
+- Experimented with co-routines
 - [Demo Here](https://oroguee.itch.io/grid-royale)
 
 ![image](https://github.com/user-attachments/assets/995effa8-4a51-4362-9059-35f10e95b316)
