@@ -64,6 +64,7 @@ Maintained and enhanced an existing client application by implementing new featu
 ![image](https://github.com/user-attachments/assets/4a91cd20-ac83-428b-9b7d-32f147502fd8)
 
 ### Duckshooter
+[Demo Here](https://oroguee.itch.io/duck-shooter)
 - Duckshooter game made in GDevelop.
 - Practicing good management of Object-Oriented design using instances, Layering, Game Development Fundamental.
 
