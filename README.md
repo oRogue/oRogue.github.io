@@ -26,7 +26,7 @@ During my internship at Nimbus Games, I contributed to the design, testing, and 
 
 **Quality Assurance & Player Experience Analysis**
 
-Performed extensive QA testing on gameplay features and level content, identifying bugs, progression blockers, and usability issues. Produced detailed feedback reports and collaborated with team members to improve game quality, balance, and player experience.
+- Performed extensive QA testing on gameplay features and level content, identifying bugs, progression blockers, and usability issues. Produced detailed feedback reports and collaborated with team members to improve game quality, balance, and player experience.
 
 ---
 
@@ -39,25 +39,25 @@ During my six-month internship at DreamEDGE, I worked on multiple software devel
 
 **Technologies:** Python, Socket Programming, GUI Development
 
-Developed a desktop application that acted as a centralized control panel for robotic arms used in a manufacturing assembly line. The system utilized Python socket communication to send and receive commands between machines, allowing operators to manage robotic processes more efficiently through an intuitive graphical interface.
+- Developed a desktop application that acted as a centralized control panel for robotic arms used in a manufacturing assembly line. The system utilized Python socket communication to send and receive commands between machines, allowing operators to manage robotic processes more efficiently through an intuitive graphical interface.
 
 **Facial Recognition Education Platform**
 
 **Technologies:** C#, Computer Vision
 
-Contributed to the enhancement of an internal facial recognition application used in the company's children's educational facility. The project focused on improving recognition functionality and user interaction, helping create engaging experiences for visiting families.
+- Contributed to the enhancement of an internal facial recognition application used in the company's children's educational facility. The project focused on improving recognition functionality and user interaction, helping create engaging experiences for visiting families.
 
 **Motor Testing Software**
 
 **Technologies:** C#, Visual Studio, UI/UX Design
 
-Designed and developed a motor testing application from the ground up, including interface design, user experience flow, and testing functionalities. The software streamlined testing procedures and provided operators with a more efficient method of validating motor performance.
+- Designed and developed a motor testing application from the ground up, including interface design, user experience flow, and testing functionalities. The software streamlined testing procedures and provided operators with a more efficient method of validating motor performance.
 
 **Client Software Enhancement**
 
 **Technologies:** TypeScript
 
-Maintained and enhanced an existing client application by implementing new features and functionality requested by the customer. Worked closely with the development team to ensure requirements were met while maintaining software stability and usability.
+- Maintained and enhanced an existing client application by implementing new features and functionality requested by the customer. Worked closely with the development team to ensure requirements were met while maintaining software stability and usability.
 
 ---
 
