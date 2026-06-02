@@ -1,6 +1,8 @@
 # Software Engineer & Game Developer
 **Technical Skills: Python, HTML, CSS, JavaScript, Java, C#, C++, SQL, Unity, GDevelop**
 
+**Technical Skills: Unity, C#, Python, TypeScript, Level Design, Encounter Design, QA Testing, Game Flow Design, UI/UX Design, Socket Programming, HTML, CSS, Java, GDevelop, Git, Visual Studio, Software Testing & Debugging.**
+
 ## Education
 - B.S., (Hons) Computer Science specialising Game Development | Multimedia University (_Aug 2023 to present_) CGPA 3.2
 - Diploma in Computer Science | University Teknologi MARA (_Aug 2020 to Mar 2023_) CGPA 3.32
