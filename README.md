@@ -1,10 +1,8 @@
 # Software Engineer & Game Developer
-**Technical Skills: Python, HTML, CSS, JavaScript, Java, C#, C++, SQL, Unity, GDevelop**
-
 **Technical Skills: Unity, C#, Python, TypeScript, Level Design, Encounter Design, QA Testing, Game Flow Design, UI/UX Design, Socket Programming, HTML, CSS, Java, GDevelop, Git, Visual Studio, Software Testing & Debugging.**
 
 ## Education
-- B.S., (Hons) Computer Science specialising Game Development | Multimedia University (_Aug 2023 to present_) CGPA 3.2
+- B.S., (Hons) Computer Science specialising Game Development | Multimedia University (_Aug 2023 to present_) CGPA 3.35
 - Diploma in Computer Science | University Teknologi MARA (_Aug 2020 to Mar 2023_) CGPA 3.32
 - SPM | SMK Cyberjaya (_2019_) 6A 3B
 
@@ -25,6 +23,8 @@ During my internship at Nimbus Games, I contributed to the design, testing, and 
 **Quality Assurance & Player Experience Analysis**
 
 Performed extensive QA testing on gameplay features and level content, identifying bugs, progression blockers, and usability issues. Produced detailed feedback reports and collaborated with team members to improve game quality, balance, and player experience.
+
+---
 
 ### Software Engineering Internship @ DreamEDGE
 ### _September 2022 to February 2023_
