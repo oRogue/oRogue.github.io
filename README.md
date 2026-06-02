@@ -1,4 +1,4 @@
-# Software Engineer & Game Developer
+<img width="1773" height="888" alt="image" src="https://github.com/user-attachments/assets/62c29a35-e99b-4bb2-9755-44d17304ece6" /># Software Engineer & Game Developer
 **Technical Skills: Unity, C#, Python, TypeScript, Level Design, Encounter Design, QA Testing, Game Flow Design, UI/UX Design, Socket Programming, HTML, CSS, Java, GDevelop, Git, Visual Studio, Software Testing & Debugging.**
 
 ---
@@ -68,18 +68,19 @@ Maintained and enhanced an existing client application by implementing new featu
 - Practicing level design, cutscene and story flow including NPC interations.
 - Experimented on states for cutscene, gameplay and ending.
 - [Demo Here](https://oroguee.itch.io/last-mile-home)
+![image](https://github.com/user-attachments/assets/aad74d8e-12fe-49cf-ad6a-0aebd7803806)
 
 ### Duckshooter
 - Duckshooter game made in GDevelop.
 - Practicing good management of Object-Oriented design using instances, Layering, Game Development Fundamental.
 - [Demo Here](https://oroguee.itch.io/duck-shooter)
-
-![image](https://github.com/user-attachments/assets/18f3787d-3f00-4973-92df-da28cb4272fe)
+![image](https://github.com/user-attachments/assets/fef63190-9944-44dc-bdc2-fd354e7b452a)
 
 ### SigilFall
 - Deck based card game made in GDevelop.
 - Practicing game design including card and deck mechanics.
 - [Demo Here](https://oroguee.itch.io/sigilfall)
+![image](https://github.com/user-attachments/assets/6c940e45-e3a5-4e63-8ef1-6464031123fa)
 
 ### Personal Website
 - Personal website built in 2022 for an assignment during my Diploma. (Outdated)
