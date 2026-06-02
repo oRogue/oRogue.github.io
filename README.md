@@ -87,8 +87,8 @@ During my six-month internship at DreamEDGE, I worked on multiple software devel
 
 ### Personal Website
 - Personal website built in 2022 for an assignment during my Diploma. (Outdated)
-- Built using HTML, CSS, & Javascript 
-- https://diploma-website.pages.dev
+- Built using HTML, CSS, & Javascript
+- [Demo Here](https://diploma-website.pages.dev)
 
 ### Kwazam Chess 
 - A chess game game with custom pieces each with their own unique moveset.
