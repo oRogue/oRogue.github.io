@@ -1,4 +1,4 @@
-<img width="1773" height="888" alt="image" src="https://github.com/user-attachments/assets/62c29a35-e99b-4bb2-9755-44d17304ece6" /># Software Engineer & Game Developer
+# Software Engineer & Game Developer
 **Technical Skills: Unity, C#, Python, TypeScript, Level Design, Encounter Design, QA Testing, Game Flow Design, UI/UX Design, Socket Programming, HTML, CSS, Java, GDevelop, Git, Visual Studio, Software Testing & Debugging.**
 
 ---
