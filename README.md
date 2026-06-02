@@ -63,6 +63,9 @@ During my six-month internship at DreamEDGE, I worked on multiple software devel
 
 ## Projects
 
+### Arcane Flux (FYP)
+- In Development.
+
 ### Elevator Plaza
 - Management based strategy game made in Unity.
 - Practiced with Unity's approach to a manager singleton based design for the game.
@@ -73,15 +76,16 @@ During my six-month internship at DreamEDGE, I worked on multiple software devel
 
 ### Grid Royale
 - Turn based combat game made in Unity.
-- Practiced and experimentied with enemy and combat design, co-routines for smoother turn based mechanics, and A* Pathfinding for enemy AI.
-- Experimented with co-routines
+- Practiced with A* Pathfinding for enemy AI.
+- Experimented with co-routines for a smoother turn based player experience.
+- Designing enemy types and behaviours along with combat design.
 - [Demo Here](https://oroguee.itch.io/grid-royale)
 
 ![image](https://github.com/user-attachments/assets/995effa8-4a51-4362-9059-35f10e95b316)
 
 ### Last Mile Home
 - Story based top down shooter made in GDevelop.
-- Practicing level design, cutscene and story flow including NPC interations.
+- Practiced level design, cutscene and story flow including NPC interations.
 - Experimented on states for cutscene, gameplay and ending.
 - [Demo Here](https://oroguee.itch.io/last-mile-home)
 
@@ -89,26 +93,27 @@ During my six-month internship at DreamEDGE, I worked on multiple software devel
 
 ### Duckshooter
 - Duckshooter game made in GDevelop.
-- Practicing good management of Object-Oriented design using instances, Layering, Game Development Fundamental.
+- Practiced good management of Object-Oriented design using instances, Layering, Game Development Fundamental.
 - [Demo Here](https://oroguee.itch.io/duck-shooter)
 
 ![image](https://github.com/user-attachments/assets/fef63190-9944-44dc-bdc2-fd354e7b452a)
 
 ### SigilFall
 - Deck based card game made in GDevelop.
-- Practicing game design including card and deck mechanics.
+- Practiced game design including card and deck mechanics.
 - [Demo Here](https://oroguee.itch.io/sigilfall)
 
 ![image](https://github.com/user-attachments/assets/6c940e45-e3a5-4e63-8ef1-6464031123fa)
 
 ### Personal Website
 - Personal website built in 2022 for an assignment during my Diploma. (Outdated)
-- Built using HTML, CSS, & Javascript
+- Built using HTML, CSS, & Javascript.
 - [Demo Here](https://diploma-website.pages.dev)
 
 ### Kwazam Chess 
 - A chess game game with custom pieces each with their own unique moveset.
-- Built using Java practicing good Object-Oriented Programming to efficiently to down on repetition work
+- Built using Java practicing good Object-Oriented Programming to efficiently to down on repetition work.
+- [Github Repo](https://github.com/SeanNg774/Java-chess)
 
 ![image](https://github.com/user-attachments/assets/a1618f07-32ad-4a17-adff-7887f1543414)
 
