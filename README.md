@@ -66,6 +66,8 @@ During my six-month internship at DreamEDGE, I worked on multiple software devel
 ### Arcane Flux (FYP)
 - In Development.
 
+![image](https://github.com/user-attachments/assets/11aaccea-03c7-42d4-b0c6-a9bf08a59bc1)
+
 ### Elevator Plaza
 - Management based strategy game made in Unity.
 - Practiced with Unity's approach to a manager singleton based design for the game.
