@@ -63,6 +63,18 @@ During my six-month internship at DreamEDGE, I worked on multiple software devel
 
 ## Projects
 
+### Elevator Plaza
+- Test
+- [Demo Here](https://oroguee.itch.io/elevator-plaza)
+
+![image](https://github.com/user-attachments/assets/621cfd7b-8c3c-4b4c-b243-a7c6ea9d3186)
+
+### Grid Royale
+- Test
+- [Demo Here](https://oroguee.itch.io/grid-royale)
+
+![image](https://github.com/user-attachments/assets/995effa8-4a51-4362-9059-35f10e95b316)
+
 ### Last Mile Home
 - Story based top down shooter made in GDevelop.
 - Practicing level design, cutscene and story flow including NPC interations.
