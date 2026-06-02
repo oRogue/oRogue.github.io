@@ -1,5 +1,12 @@
-title: Muhammad Zikry
+title: Zikry
 logo: /assets/circle_image.png
 description: "Software Engineer, Game Developer, Game Designer, and Tech Enthusiast."
+social:
+  # displayed as the default author of the posts and the copyright owner in the footer
+  name: Corey Goldberg
+  #email: example@domain.com
+  links:
+    - https://github.com/cgoldberg
+
 #show_downloads: true
 theme: jekyll-theme-minimal
